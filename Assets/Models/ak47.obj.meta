@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: 03052684d5b07af47b14adc6439d852d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: AK47_Stock
+    100002: AK47_Magazine
+    100004: AK47_Grip
+    100006: AK47_Barrel
+    100008: AK47_MeshPart1
+    100010: AK47_MeshPart0
+    100012: AK47
+    100014: //RootNode
+    400000: AK47_Stock
+    400002: AK47_Magazine
+    400004: AK47_Grip
+    400006: AK47_Barrel
+    400008: AK47_MeshPart1
+    400010: AK47_MeshPart0
+    400012: AK47
+    400014: //RootNode
+    2300000: AK47_Stock
+    2300002: AK47_Magazine
+    2300004: AK47_Grip
+    2300006: AK47_Barrel
+    2300008: AK47_MeshPart1
+    2300010: AK47_MeshPart0
+    3300000: AK47_Stock
+    3300002: AK47_Magazine
+    3300004: AK47_Grip
+    3300006: AK47_Barrel
+    3300008: AK47_MeshPart1
+    3300010: AK47_MeshPart0
+    4300000: AK47_MeshPart0
+    4300002: AK47_MeshPart1
+    4300004: AK47_Barrel
+    4300006: AK47_Grip
+    4300008: AK47_Magazine
+    4300010: AK47_Stock
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
